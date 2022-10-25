@@ -1,0 +1,48 @@
+R version 4.2.1 (2022-06-23 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19044)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Dutch_Netherlands.utf8  LC_CTYPE=Dutch_Netherlands.utf8   
+[3] LC_MONETARY=Dutch_Netherlands.utf8 LC_NUMERIC=C                      
+[5] LC_TIME=Dutch_Netherlands.utf8    
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] igraph_1.3.4        pheatmap_1.0.12     Hmisc_4.7-0         Formula_1.2-4      
+ [5] survival_3.3-1      reshape2_1.4.4      xlsx_0.6.5          UpSetR_1.4.0       
+ [9] knitr_1.39          scales_1.2.0        cowplot_1.1.1       RColorBrewer_1.1-3 
+[13] NMF_0.24.0          Biobase_2.56.0      BiocGenerics_0.42.0 cluster_2.1.3      
+[17] rngtools_1.5.2      pkgmaker_0.32.2     registry_0.5-1      mixOmics_6.3.2     
+[21] lattice_0.20-45     MASS_7.3-58         forcats_0.5.1       stringr_1.4.0      
+[25] dplyr_1.0.9         purrr_0.3.4         readr_2.1.2         tidyr_1.2.0        
+[29] tibble_3.1.8        ggplot2_3.3.6       tidyverse_1.3.2     pROC_1.18.0        
+[33] corrplot_0.92      
+
+loaded via a namespace (and not attached):
+ [1] googledrive_2.0.0   colorspace_2.0-3    deldir_1.0-6        ellipsis_0.3.2     
+ [5] htmlTable_2.4.1     corpcor_1.6.10      base64enc_0.1-3     fs_1.5.2           
+ [9] rstudioapi_0.13     farver_2.1.1        RSpectra_0.16-1     fansi_1.0.3        
+[13] lubridate_1.8.0     xml2_1.3.3          codetools_0.2-18    splines_4.2.1      
+[17] doParallel_1.0.17   jsonlite_1.8.0      rJava_1.0-6         broom_1.0.0        
+[21] gridBase_0.4-7      dbplyr_2.2.1        png_0.1-7           compiler_4.2.1     
+[25] httr_1.4.3          backports_1.4.1     assertthat_0.2.1    Matrix_1.4-1       
+[29] fastmap_1.1.0       gargle_1.2.0        cli_3.3.0           htmltools_0.5.3    
+[33] tools_4.2.1         gtable_0.3.0        glue_1.6.2          Rcpp_1.0.9         
+[37] cellranger_1.1.0    vctrs_0.4.1         iterators_1.0.14    xfun_0.31          
+[41] xlsxjars_0.6.1      rvest_1.0.2         lifecycle_1.0.1     googlesheets4_1.0.0
+[45] ragg_1.2.2          hms_1.1.1           parallel_4.2.1      gridExtra_2.3      
+[49] rpart_4.1.16        latticeExtra_0.6-30 stringi_1.7.8       foreach_1.5.2      
+[53] checkmate_2.1.0     rlang_1.0.4         pkgconfig_2.0.3     systemfonts_1.0.4  
+[57] matrixStats_0.62.0  rgl_0.109.6         evaluate_0.15       htmlwidgets_1.5.4  
+[61] labeling_0.4.2      tidyselect_1.1.2    plyr_1.8.7          magrittr_2.0.3     
+[65] R6_2.5.1            generics_0.1.3      DBI_1.1.3           pillar_1.8.0       
+[69] haven_2.5.0         foreign_0.8-82      withr_2.5.0         nnet_7.3-17        
+[73] modelr_0.1.8        crayon_1.5.1        rARPACK_0.11-0      interp_1.1-3       
+[77] utf8_1.2.2          ellipse_0.4.3       tzdb_0.3.0          jpeg_0.1-9         
+[81] readxl_1.4.0        data.table_1.14.2   reprex_2.0.1        digest_0.6.29      
+[85] xtable_1.8-4        textshaping_0.3.6   munsell_0.5.0      
