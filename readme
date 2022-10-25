@@ -1,0 +1,4 @@
+the script relates to the datasets from the following preprint: https://www.medrxiv.org/content/10.1101/2020.09.09.20189886v2
+It separates pre and post samples from cases and controls, separately.
+
+The session info file gives the information on package versions used
